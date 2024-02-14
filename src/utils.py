@@ -69,8 +69,3 @@ def get_info(final_list):
 def main():
     a = hide_info(ch_date(sort_list(get_list())))
     get_info(a)
-
-main()
-
-
-
